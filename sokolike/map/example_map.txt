@@ -1,0 +1,4 @@
+ 0  R RS  0
+BE  B  B  B
+RE  R  W  B
+ 0 BS  B  B

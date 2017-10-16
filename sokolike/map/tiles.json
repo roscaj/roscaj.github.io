@@ -1,0 +1,96 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"obs",
+ "spacing":0,
+ "terrains":[
+        {
+         "name":"light-red",
+         "tile":6
+        }, 
+        {
+         "name":"light-blue",
+         "tile":5
+        }, 
+        {
+         "name":"solid-blue",
+         "tile":8
+        }, 
+        {
+         "name":"solid-red",
+         "tile":9
+        }, 
+        {
+         "name":"block-red",
+         "tile":12
+        }, 
+        {
+         "name":"block-blue",
+         "tile":11
+        }, 
+        {
+         "name":"pillar",
+         "tile":13
+        }],
+ "tilecount":7,
+ "tileheight":284,
+ "tiles":
+    {
+     "11":
+        {
+         "image":"..\/images\/tile_cube_blue.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[5, 5, 5, 5]
+        },
+     "12":
+        {
+         "image":"..\/images\/tile_cube_red.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[4, 4, 4, 4]
+        },
+     "13":
+        {
+         "image":"..\/images\/tile_gray_pillar.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[6, 6, 6, 6]
+        },
+     "14":
+        {
+         "image":"..\/images\/tile_light_blue.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[1, 1, 1, 1]
+        },
+     "15":
+        {
+         "image":"..\/images\/tile_light_red.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[0, 0, 0, 0]
+        },
+     "16":
+        {
+         "image":"..\/images\/tile_solid_blue.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[2, 2, 2, 2]
+        },
+     "17":
+        {
+         "image":"..\/images\/tile_solid_red.png",
+         "imageheight":284,
+         "imagewidth":198,
+         "terrain":[3, 3, 3, 3]
+        }
+    },
+ "tilewidth":198,
+ "type":"tileset"
+}
