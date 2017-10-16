@@ -297,4 +297,4 @@ var Sokolike = /** @class */ (function () {
 window.onload = function () {
     var game = new Sokolike();
 };
-//# sourceMappingURL=c:/Users/moi/Documents/sokoban-alike/dist/main.js.map
+//# sourceMappingURL=/mnt/c/Users/moi/Documents/sokoban-alike/dist/main.js.map
